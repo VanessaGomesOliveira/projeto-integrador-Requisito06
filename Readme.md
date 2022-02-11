@@ -34,7 +34,7 @@ possam montar o (s) pedido (s) para despachá-los.
 
 ## 💡 Requisito Individual
 
-● Implementação extra para que o usuário (comprador) possa ter um histórico de suas compras.
+● Implementação extra para que o usuário (comprador) possa ter um histórico de seus pedidos (finalizados ou cancelados).
 
 ## 🚀 Frameworks, Linguagens e Ferramentas
 
